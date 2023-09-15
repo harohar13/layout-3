@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+header,footer {
+    height: 100px;
+    border:2px black;
+    clear: both;
+
+}
+
+.first{
+    height:300px;
+    width:20%;
+    border:2px solid black;
+    float:left;
+
+}
+.second{
+    height:300px;
+    width:40%;
+    border:2px solid black;
+    float:left;
+
+}
+
+.third{
+    height:300px;
+    width:20%;
+    border:2px solid black;
+    float:left;
+
+}
+.fourth{
+    height:300px;
+    width:20%;
+    border:2px solid black;
+    float:left;
+
+}
